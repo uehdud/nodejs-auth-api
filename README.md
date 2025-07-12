@@ -34,7 +34,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nodejs-auth-api.git
+git clone https://github.com/uehdud/nodejs-auth-api.git
 cd nodejs-auth-api
 ```
 
